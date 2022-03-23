@@ -2,7 +2,7 @@
   become: true
 
   vars:
-    username: "venkatn"
+    username: "nkprince007"
     userhome: "/home/{{ username }}"
 
   tasks:
